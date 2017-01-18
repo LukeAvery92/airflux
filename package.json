@@ -36,7 +36,7 @@
     "eventemitter3": "^1.1.1",
     "invariant": "^2.2.0"
   },
-    "peerDependencies": {
+  "peerDependencies": {
     "react": "0.14.x"
   },
   "devDependencies": {
